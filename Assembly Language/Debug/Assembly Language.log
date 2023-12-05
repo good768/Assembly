@@ -1,0 +1,3 @@
+﻿  Assembling X86.asm...
+C:\Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Assembly Language.vcxproj -> C:\Users\29269\source\Assembly Language\Debug\Assembly Language.exe

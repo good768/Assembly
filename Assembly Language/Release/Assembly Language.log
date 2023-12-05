@@ -1,0 +1,3 @@
+﻿  Assembling X86.asm...
+X86.asm(5): fatal error A1000: cannot open file : Irvine32.inc
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml.exe /c /nologo /Zi /Fo"Release\X86.obj" /W3 /errorReport:prompt  /TaX86.asm”已退出，返回代码为 1。
